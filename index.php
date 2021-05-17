@@ -1,3 +1,3 @@
 <?php 
-echo "emreninemugakoyam yoo";
+echo "emreninemugakoyam puşt emre ";
 ?>
